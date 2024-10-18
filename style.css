@@ -1,0 +1,20 @@
+h1{
+    color: rgb(255, 0, 0);
+    text-align: center;
+    text-decoration: underline;
+    
+}
+.profile{
+    background-color: rgb(247, 223, 10);
+border: 1px solid black;
+padding: 10px;
+}
+body{
+    background-color: rgb(86, 250, 10);
+}
+a{
+    text-decoration: double;
+    animation: normal 2s 2s delay iteration-count right fill-mode;
+        text-decoration: double;
+        border: 2px solid yellow;
+}

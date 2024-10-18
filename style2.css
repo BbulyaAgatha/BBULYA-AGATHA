@@ -1,0 +1,59 @@
+ul{
+    border: 2px solid blue;
+    border-style: groove;
+    background-color: blueviolet;
+}
+body{
+    font-family: Arial, sans-serif;
+    background-color: rgb(124, 85, 160);
+    padding: 20px;
+}
+
+h1{
+    border: 3px solid rgb(82, 57, 5);
+    text-align: center;
+    color: blue;
+    text-decoration-line: underline;
+    text-transform: capitalize;
+    text-wrap-style: pretty;
+}
+.contact{
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: rgb(7, 243, 7);
+    padding: 20px;
+    box-shadow:0 0 10px rgba(red, green, blue, alpha) (0, 0, 0, 0.1);
+}
+label{
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+input, textarea{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #7c3e3e;
+    border-radius: 4px;
+}
+button{
+    background-color: rgb(66, 66, 3);
+    color: rgb(32, 201, 201);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(230, 43, 10);
+
+}
+back-links{
+    text-align: center;
+    margin-top: 20px;
+    
+}
+a{
+    text-decoration: double;
+    border: 2px solid rgb(160, 160, 47);
+}
